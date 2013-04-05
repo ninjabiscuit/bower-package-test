@@ -1,0 +1,13 @@
+{
+  "name": "bower-test-package-1",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jquery" : "1.9.0",
+    "lodash" : "1.1.1"
+  }
+}
